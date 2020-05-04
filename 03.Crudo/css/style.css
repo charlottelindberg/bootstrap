@@ -1,0 +1,12 @@
+body {
+  background-color: yellow; }
+
+.navbar a {
+  font-weight: bold; }
+
+.social {
+  bottom: 0; }
+  .social i {
+    font-size: 4rem; }
+
+/*# sourceMappingURL=style.css.map */
