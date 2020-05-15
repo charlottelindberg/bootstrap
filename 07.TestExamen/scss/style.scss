@@ -1,0 +1,22 @@
+$blue: white;
+$primary: hotpink;
+$secondary: purple;
+
+@import 'bootstrap/bootstrap';
+
+body {
+    background-color: $blue;
+}
+
+.jumbotron .container {
+    max-width: 40rem;
+}
+
+.text-center {
+    text-align: center !important;
+}
+
+.btn {
+    // display: flex;
+    display: inline-block;
+}
